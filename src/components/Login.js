@@ -71,7 +71,7 @@ class Login extends Component {
                     <Mutation
                         mutation={login ? LOGIN_MUTATION : SIGNUP_MUTATION}
                         variables={{ email, password, name }}
-                        onCompleted={(data) => this._confirm(data)}>
+                        onCompleted={data => this._confirm(data)}>
                         {(mutation) => (
                             <div
                                 className='pointer mr2 button'
