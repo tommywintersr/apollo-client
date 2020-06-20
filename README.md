@@ -1,4 +1,4 @@
-### GraphQL API with Apollo Client in React.js with simple Auth, Subscriptions/Real-time updates etc
+### GraphQL API with Prisma + Apollo Client in React.js with simple Auth, Subscriptions/Real-time updates etc
 
 
 ## How to run
@@ -13,5 +13,5 @@ from root:<br /><br />
 Navigate to localhost:3000<br />
 
 ### Resources used
-https://www.howtographql.com/
+https://www.howtographql.com/<br />
 https://graphql.org/learn/
